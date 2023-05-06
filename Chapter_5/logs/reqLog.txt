@@ -1,0 +1,9 @@
+20230506	17::44::58	e9b8035b-4234-45ed-a4cf-d639a13df7fb	/	GET
+20230506	17::44::58	293a9b5e-efdc-4999-912e-276267f8d845	/css/style.css	GET
+20230506	17::45::29	f82590e2-8c3d-4fa6-8c9c-f2b476a53062	/new-page.html	GET
+20230506	17::45::29	2ca53bd5-eb2d-4963-826c-e8b93b1b6df4	/css/style.css	GET
+20230506	17::45::29	172c9d08-6d7f-4026-be06-baf8325ff2b2	/img/img1.jpg	GET
+20230506	17::47::56	a5e57ca2-eda0-43ca-b235-5b7bf535f3b3	/new-page.html	GET
+20230506	17::48::09	f52e6736-0c1c-4406-8a09-20231edc1e14	/new-page.html	GET
+20230506	17::48::09	488076a0-66c0-4a48-90fe-df9df238afd6	/css/style.css	GET
+20230506	17::48::09	e40dfca8-70a9-4f0b-baab-e8f18eac819b	/img/img1.jpg	GET
